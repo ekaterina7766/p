@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient( #ffeaba,  #e2ac30);
+}
+header{
+background-color: #cdb782;
+padding: 17px;
+text-align: center;
+ 
+}
+footer{
+background-color: #e9d9b6;
+padding: 17px;
+text-align: center;
+
+}
+ header a{
+text-decoration: none;
+color: black;
+font-size: 35px;
+}
+
+ a {
+text-decoration: none;
+color: black;
+font-size: 18px;
+
+
+border-radius: 20px;
+}
